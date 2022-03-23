@@ -1,0 +1,19 @@
+<?php
+
+$jk="L";
+$nama_lengkap="selamat";
+$umur = 18;
+$berat=20;
+$tinggi=182.1;
+
+
+echo "Nama  		  $nama_lengkap<br>";
+echo "Jenis Kelamin     $jk<br>";
+echo "Umur   		  $umur<br>";
+echo "Berat Badang Lho  $berat<br>";
+echo "Tinggi Badang Lho $tinggi<br>";
+echo strlen ("Hello World!"),"\n"; \\enghitung Jumlah Huruf termasuk di dalamnya Space
+echo strrev	("Hello World!"),"\n"; \\Membalikkan huruf yang terbaca 
+
+
+?>
